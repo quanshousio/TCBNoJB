@@ -1,0 +1,9 @@
+Package: com.quanshousio.tcbnojb
+Name: TCB
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass Techcombank jailbreak detection
+Maintainer: Quan Tran <quan@shousio.com>
+Author: Quan Tran <quan@shousio.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
